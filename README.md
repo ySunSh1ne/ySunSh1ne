@@ -1,4 +1,4 @@
-  ## Oii eu sou Alex Almeida, Programador e Estudante de Python
+  ## Oii eu sou Alex Almeida, Programador e Estudante 
 
 
 <div> 
